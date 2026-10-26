@@ -28,17 +28,18 @@
 - [Agent 为什么能操作文件和程序？](05-agents/01-agent-basics.md) —— 了解工具、权限、工作流程和回退。
 - 想看这些知识在真实项目中可能遇到什么问题，可以去 [Ade 的 Agent 踩坑记录](../AdenineLeo/06-field-notes/01-lessons-and-open-questions.md)。个人经历中的待核实部分不应直接视为通用结论。
 
-## 从真实项目提炼出的教学案例
+## 通用经验库｜从真实工程实践中沉淀的方法
 
-- [测试通过不代表所有场景都通过：CultureLens D0 示例](03-workflows/03-test-boundaries.md) —— 一篇基于公开测试证据的入门案例。
-- 这类文章的整理方法见 [Agent Experience Lab](../AdenineLeo/projects/Agent-Experience-Lab/README.md)；原始私人记录不会直接发布。
+- **[进入 Shared/experiences 通用经验库](experiences/README.md)**：记录可跨项目复用的技术判断、故障机制、操作方法与反例；首批五条来自 CultureLens 的公开工程证据。
+- **[Agent Experience Lab](../AdenineLeo/projects/Agent-Experience-Lab/README.md)**：帮助本地 Agent 从真实工作记录中提炼经验，并直接存放到这个共享区域，不再要求先写教学文章。
+- [历史教学案例：测试通过不代表所有场景都通过](03-workflows/03-test-boundaries.md) 作为原有较长教程保留，不是新经验条目的必需格式。
 
-## 怎样维护公共文章？
+## 怎样维护公共知识与经验？
 
-1. **尽量有读者对象**：标出这是给新手还是已经会编程的人。
-2. **有可操作的例子**：尽量提供步骤、检查点、适用条件，而不只是抽象定义。
-3. **区分事实与判断**：价格、功能和型号等可能过时；必要时标明验证日期和来源。
-4. **个人经验先留在个人空间**：要成为公共教程，尽量提炼出可重复的步骤及适用边界。
-5. **小修改也欢迎**：发现一个错别字、一个失效链接，直接通过 PR 修正即可。
+1. 通识教程可以继续按受众和阅读路线组织；**通用经验不必写成文章**，也不限制技术深度。
+2. 经验条目优先强调代表性、复用性、可追溯证据、触发条件与边界，不按字数或数量凑内容。
+3. 区分实际观察、来源报告和独立复现；没有证据的部分写明“待核实”。
+4. 个人过程留在个人空间；从中抽取的普遍方法可以直接存入 [experiences](experiences/README.md)。
+5. 共同仓库是 Public，严禁未经确认就复制私人记录、凭据、内部服务信息及不具备公开授权的资料。
 
 [返回共同首页](../README.md) · [Ade 的空间](../AdenineLeo/README.md) · [Ethan 的空间](../Ethan/README.md) · [参与指南](../CONTRIBUTING.md)
