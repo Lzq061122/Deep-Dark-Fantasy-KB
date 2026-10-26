@@ -16,6 +16,7 @@
 - **[CultureLens](https://github.com/Lzq061122/CultureLens)**：中文视频字幕本地化与文化建议审校工作台。
 - **[CombatBrain 2.0](https://github.com/Lzq061122/CombatBrain-2.0)**：关于游戏战场指挥官 AI 的设计、研究与验证。
 - **[TacticalCommandLab](https://github.com/Lzq061122/TacticalCommandLab)**：战术指挥相关的实验性研究和工具。
+- **[Agent Experience Lab](projects/Agent-Experience-Lab/README.md)**：从实际 Agent 工作记录中提炼有证据的经验，逐步整理给别人学习。
 
 以上是项目**入口和研究方向**，具体实现进度与测试证据请查看原仓库，避免把设计中的功能误认成已实现。
 
