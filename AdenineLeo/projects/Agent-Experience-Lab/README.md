@@ -54,6 +54,12 @@ Shared/experiences/（最终共享位置）
 
 这并不是本地 Agent 自动持续监测功能已经完成。当前已经有**真实经验条目、共同入口以及可交给本地 Agent 的工作指令**；持续自动化仍需单独实现和验证。
 
+## 已创建可重复使用的 Skill
+
+现在有真正的 [**knowledge-capture Skill**](../../../.agents/skills/knowledge-capture/SKILL.md)（[安装说明](../../../.agents/skills/knowledge-capture/README.md)）。在支持的本地 Agent 中安装后，就可以随时说“记一下……”，不必每次粘贴完整委托词。
+
+这是**指令型 Skill**，不会在后台监听或自动获取 GitHub 权限。保存要靠宿主 Agent 的工具与用户既有授权；具体存放位置仍是本仓库的 `AdenineLeo/notes/` 和 `Shared/experiences/`。
+
 ## 平时随时怎么记？
 
 **直接说“记一下：……”即可**，不要求任务已经结束，也不需要指定某个工作区或提供证据。个人心得默认放入 `AdenineLeo/notes/YYYY-MM.md`；明确要求通用经验时，放入 `Shared/experiences/`，并在必要时对已有条目补充内容。
