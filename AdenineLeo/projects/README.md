@@ -13,7 +13,7 @@
 | **CultureLens** | 探索中文视频的英文字幕生成、文化建议与人工审校流程 | [CultureLens 仓库](https://github.com/Lzq061122/CultureLens) | 仓库有 D0 基础版本和验收记录；后续工作以项目仓库为准 |
 | **CombatBrain 2.0** | 研究《骑马与砍杀 II》野战中的指挥官战术 AI | [CombatBrain-2.0 仓库](https://github.com/Lzq061122/CombatBrain-2.0) | 需求、设计与验证持续演进；研究内容不等于已实现功能 |
 | **TacticalCommandLab** | 与战术指挥、AI 行为评估相关的实验和工具探索 | [TacticalCommandLab 仓库](https://github.com/Lzq061122/TacticalCommandLab) | 具体成果、当前分支与可复现性以原仓库为准 |
-| **Agent Experience Lab** | 从授权的工程与 Agent 记录中，积累可复用、有代表性的技术经验 | [项目说明](Agent-Experience-Lab/README.md) | 私有经验库已收录 5 条；本地自动持续采集仍待实现 |
+| **Agent Experience Lab** | 从授权的工程与 Agent 记录中提炼可复用经验，沉淀到共同知识区 | [项目说明](Agent-Experience-Lab/README.md) | [Shared 经验库](../../Shared/experiences/README.md) 已收录首批 5 条；持续自动采集仍待实现 |
 
 ## 我希望以后怎么记录项目？
 
