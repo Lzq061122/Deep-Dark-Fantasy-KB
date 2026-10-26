@@ -28,6 +28,11 @@
 - [Agent 为什么能操作文件和程序？](05-agents/01-agent-basics.md) —— 了解工具、权限、工作流程和回退。
 - 想看这些知识在真实项目中可能遇到什么问题，可以去 [Ade 的 Agent 踩坑记录](../AdenineLeo/06-field-notes/01-lessons-and-open-questions.md)。个人经历中的待核实部分不应直接视为通用结论。
 
+## 从真实项目提炼出的教学案例
+
+- [测试通过不代表所有场景都通过：CultureLens D0 示例](03-workflows/03-test-boundaries.md) —— 一篇基于公开测试证据的入门案例。
+- 这类文章的整理方法见 [Agent Experience Lab](../AdenineLeo/projects/Agent-Experience-Lab/README.md)；原始私人记录不会直接发布。
+
 ## 怎样维护公共文章？
 
 1. **尽量有读者对象**：标出这是给新手还是已经会编程的人。
