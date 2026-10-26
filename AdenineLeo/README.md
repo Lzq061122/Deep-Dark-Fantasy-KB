@@ -1,20 +1,32 @@
-# AdenineLeo 的空间
+# AdenineLeo · Ade 的空间
 
-> 这里记录 Ade 的 AI 项目、实战经历、个人想法与踩坑。
+> 分享我正在做的项目、AI 使用经历、技术探索和踩坑记录。这里的内容以个人实践为主，不保证每个项目都已经完成，也不要求每篇笔记都有结论。
 
-基础知识和通用教程已经统一移到 [Shared 公共知识区](../Shared/README.md)。这样两个人都能共同完善，也不用把通用文章放在某个人名下。
+## 从这里开始
 
-## 目前的个人记录
+| 想看什么 | 入口 | 有什么内容 |
+| --- | --- | --- |
+| **我在做的项目** | [项目索引](projects/README.md) | CultureLens、CombatBrain 2.0、TacticalCommandLab 及其公开仓库 |
+| **实战中的问题** | [Agent 踩坑回顾](06-field-notes/01-lessons-and-open-questions.md) | 并行修改、长任务研究、上下文交接、工具兼容性等 |
+| **零散的心得与实验** | [随手记录区](notes/README.md) | 以后随时把试过的工具、想法和没有解决的问题写在这里 |
+| **需要快速留证据** | [两分钟经验记录模板](templates/experience-note.md) | 不靠事后回忆，先记现象、日志线索和处理结果 |
 
-- [Agent 使用与项目开发中的踩坑记录](06-field-notes/01-lessons-and-open-questions.md)
-- [两分钟经验记录模板](templates/experience-note.md)
+## 我的项目
 
-## 以后可以继续添加
+- **[CultureLens](https://github.com/Lzq061122/CultureLens)**：中文视频字幕本地化与文化建议审校工作台。
+- **[CombatBrain 2.0](https://github.com/Lzq061122/CombatBrain-2.0)**：关于游戏战场指挥官 AI 的设计、研究与验证。
+- **[TacticalCommandLab](https://github.com/Lzq061122/TacticalCommandLab)**：战术指挥相关的实验性研究和工具。
 
-- `projects/`：正在制作的项目和进度
-- `notes/`：随手心得、工具体验和想法
-- `experiments/`：实验与验证记录
+以上是项目**入口和研究方向**，具体实现进度与测试证据请查看原仓库，避免把设计中的功能误认成已实现。
 
-这些只是可选建议，不需要为了目录整齐而先创建空文件夹。
+## 个人经验如何分享给别人？
 
-[返回共同首页](../README.md) · [查看公共教程](../Shared/README.md)
+我可能会先记下“今天遇到一个奇怪的 Agent 问题”，等之后找回日志、补上证据，再从中提炼出可以复用的方法。
+
+- 原始经历保留在 **AdenineLeo**。
+- 大家都能学到的教程提炼到 **[Shared 公共知识区](../Shared/README.md)**。
+- 还没核实的地方就直接写“待验证”。
+
+这里也欢迎 AI 以外的项目和想法，不必把个人空间限制在一类工具里。
+
+[返回共同首页](../README.md) · [公共知识区](../Shared/README.md)
