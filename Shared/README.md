@@ -42,4 +42,4 @@
 4. 个人过程留在个人空间；从中抽取的普遍方法可以直接存入 [experiences](experiences/README.md)。
 5. 共同仓库是 Public，严禁未经确认就复制私人记录、凭据、内部服务信息及不具备公开授权的资料。
 
-[返回共同首页](../README.md) · [Ade 的空间](../AdenineLeo/README.md) · [Ethan 的空间](../Ethan/README.md) · [参与指南](../CONTRIBUTING.md)
+[返回共同首页](../README.md) · [Ade 的空间](../AdenineLeo/README.md) · [Z7h3uT 的空间](../Z7h3uT/README.md) · [参与指南](../CONTRIBUTING.md)
