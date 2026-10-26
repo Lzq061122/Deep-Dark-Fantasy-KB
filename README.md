@@ -21,7 +21,7 @@
 - **一个想法或正在做的项目**：放在自己的文件夹里，没完成也可以分享。
 - **日常使用心得和踩坑**：放进自己的文件夹，写简短笔记就够了。
 - **通用的 AI 解释、教程、方法**：放到 `Shared/`，两个人一起维护。
-- **想聊天或征求意见**：用 [Discussions](../../discussions)（仓库管理员需先启用）或 Issues。
+- **想聊天或征求意见**：用 [Discussions](https://github.com/Lzq061122/Deep-Dark-Fantasy-KB/discussions)（仓库管理员需先启用）或 Issues。
 
 [如何参与](CONTRIBUTING.md) · [交流约定](COMMUNITY.md) · [项目模板](templates/project-template.md) · [心得模板](templates/share-template.md)
 
