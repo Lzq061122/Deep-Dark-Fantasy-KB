@@ -16,7 +16,7 @@
 - **[CultureLens](https://github.com/Lzq061122/CultureLens)**：中文视频字幕本地化与文化建议审校工作台。
 - **[CombatBrain 2.0](https://github.com/Lzq061122/CombatBrain-2.0)**：关于游戏战场指挥官 AI 的设计、研究与验证。
 - **[TacticalCommandLab](https://github.com/Lzq061122/TacticalCommandLab)**：战术指挥相关的实验性研究和工具。
-- **[Agent Experience Lab](projects/Agent-Experience-Lab/README.md)**：把有代表性的工程与 Agent 经验积累到私有通用知识库，供日后检索与复用。
+- **[Agent Experience Lab](projects/Agent-Experience-Lab/README.md)**：把本地 Agent 的代表性经验提炼到 [Shared 通用经验库](../Shared/experiences/README.md)，方便与 Ethan 共同积累、复用。
 
 以上是项目**入口和研究方向**，具体实现进度与测试证据请查看原仓库，避免把设计中的功能误认成已实现。
 
@@ -25,7 +25,7 @@
 我可能会先记下“今天遇到一个奇怪的 Agent 问题”，等之后找回日志、补上证据，再从中提炼出可以复用的方法。
 
 - 原始经历保留在 **AdenineLeo**。
-- 大家都能学到的教程提炼到 **[Shared 公共知识区](../Shared/README.md)**。
+- 可复用的通用结论直接存入 **[Shared 经验库](../Shared/experiences/README.md)**；不需要改写成长篇教程。
 - 还没核实的地方就直接写“待验证”。
 
 这里也欢迎 AI 以外的项目和想法，不必把个人空间限制在一类工具里。
