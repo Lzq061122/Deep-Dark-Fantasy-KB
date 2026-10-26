@@ -47,6 +47,7 @@
 
 - [Agent 与项目开发：四组踩坑及待验证问题](../06-field-notes/01-lessons-and-open-questions.md)
 - [两分钟经验记录模板](../templates/experience-note.md)
-- [本地 Agent 的“随时保存”工作指令](../projects/Agent-Experience-Lab/LOCAL-AGENT-TASK.md)
+- [knowledge-capture Skill](../../.agents/skills/knowledge-capture/SKILL.md)（推荐安装一次，平时一句话触发）
+- [本地 Agent 的兼容版“随时保存”工作指令](../projects/Agent-Experience-Lab/LOCAL-AGENT-TASK.md)
 
 [返回个人首页](../README.md)
