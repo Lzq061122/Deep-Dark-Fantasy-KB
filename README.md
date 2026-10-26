@@ -8,7 +8,7 @@
 
 | 区域 | 放什么？ | 入口 |
 | --- | --- | --- |
-| **Shared · 公共知识区** | AI 入门、工具与 Agent 基础、通用教程和资料 | [进入 Shared](Shared/README.md) |
+| **Shared · 公共知识区** | AI 入门、通用经验库、工具方法和技术资料 | [进入 Shared](Shared/README.md) |
 | **AdenineLeo · Ade 的空间** | 个人项目、实战经历、心得与踩坑 | [进入 AdenineLeo](AdenineLeo/README.md) |
 | **Ethan · Ethan 的空间** | Ethan 的项目、实验、经验和想法 | [进入 Ethan](Ethan/README.md) |
 
@@ -20,7 +20,7 @@
 
 - **一个想法或正在做的项目**：放在自己的文件夹里，没完成也可以分享。
 - **日常使用心得和踩坑**：放进自己的文件夹，写简短笔记就够了。
-- **通用的 AI 解释、教程、方法**：放到 `Shared/`，两个人一起维护。
+- **通用经验、工程方法、AI 基础知识**：放到 [Shared/](Shared/README.md)；有代表性的 Agent 经验可以直接存入 [经验库](Shared/experiences/README.md)，不必写成文章。
 - **想聊天或征求意见**：用 [Discussions](https://github.com/Lzq061122/Deep-Dark-Fantasy-KB/discussions)（仓库管理员需先启用）或 Issues。
 
 [如何参与](CONTRIBUTING.md) · [交流约定](COMMUNITY.md) · [项目模板](templates/project-template.md) · [心得模板](templates/share-template.md)
