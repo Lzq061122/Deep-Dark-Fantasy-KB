@@ -1,31 +1,20 @@
 # AdenineLeo 的空间
 
-> 这里由 AdenineLeo（Ade）整理和维护。
+> 这里记录 Ade 的 AI 项目、实战经历、个人想法与踩坑。
 
-记录 AI 相关的学习经验、工具使用、Agent 工作流、项目开发和踩坑笔记。文章可以不完整；我会尽量把已经验证的事实和个人判断区分开。
+基础知识和通用教程已经统一移到 [Shared 公共知识区](../Shared/README.md)。这样两个人都能共同完善，也不用把通用文章放在某个人名下。
 
-## 我的内容
+## 目前的个人记录
 
-### AI 学习与工具经验
+- [Agent 使用与项目开发中的踩坑记录](06-field-notes/01-lessons-and-open-questions.md)
+- [两分钟经验记录模板](templates/experience-note.md)
 
-- [从零开始使用 AI](START-HERE.md)
-- [模型、Agent、MCP、Skill、Harness 的区别](01-basics/01-key-concepts.md)
-- [AI 工具怎么选](02-tools/01-choose-your-tools.md)
-- [第一次让 AI 完成真正的任务](03-workflows/01-first-real-task.md)
-- [如何描述需求并验收](04-prompting/01-requests-and-review.md)
-- [Agent 入门](05-agents/01-agent-basics.md)
+## 以后可以继续添加
 
-### 真实实践
+- `projects/`：正在制作的项目和进度
+- `notes/`：随手心得、工具体验和想法
+- `experiments/`：实验与验证记录
 
-- [Agent 使用和项目开发的踩坑记录](06-field-notes/01-lessons-and-open-questions.md)
-- [经验记录模板](templates/experience-note.md)
+这些只是可选建议，不需要为了目录整齐而先创建空文件夹。
 
-### 以后想分享的内容
-
-- 正在开发的项目和实验
-- 工具体验、使用心得和遇到的问题
-- 值得记录的想法、方法与资料
-
-想交流可以发起仓库 Discussions（如已启用），也欢迎通过 Pull Request 补充或纠正内容。
-
-[返回共同首页](../README.md)
+[返回共同首页](../README.md) · [查看公共教程](../Shared/README.md)
