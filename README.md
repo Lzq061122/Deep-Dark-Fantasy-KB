@@ -1,6 +1,6 @@
 # Deep Dark Fantasy KB
 
-> **AdenineLeo × Ethan · 我们的 AI 交流、实践与知识共享空间**
+> **AdenineLeo × Z7h3uT · 我们的 AI 交流、实践与知识共享空间**
 
 这是一个公用的交流空间，不只是ai，也可以是别的东西，反正记录一下自己的项目、心得啥的，一起努力吧o(^▽^)o
 主要是感觉，很多的经验和知识，以我的口才，会讲的很糟糕和杂乱，所以我在shared空间里存了自己vibe做的入门教程和知识总结啥的，会持续更新！——Ade
@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | **Shared · 公共知识区** | AI 入门、通用经验库、工具方法和技术资料 | [进入 Shared](Shared/README.md) |
 | **AdenineLeo · Ade 的空间** | 个人项目、实战经历、心得与踩坑 | [进入 AdenineLeo](AdenineLeo/README.md) |
-| **Ethan · Ethan 的空间** | Ethan 的项目、实验、经验和想法 | [进入 Ethan](Ethan/README.md) |
+| **Z7h3uT · Z7h3uT 的空间** | Z7h3uT 的项目、实验、经验和想法 | [进入 Z7h3uT](Z7h3uT/README.md) |
 
 ## 刚开始接触 AI？
 
