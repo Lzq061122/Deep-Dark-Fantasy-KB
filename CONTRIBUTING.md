@@ -1,39 +1,44 @@
 # 怎么参与？｜AdenineLeo × Ethan
 
-这里是两个人一起整理 AI 项目、经验与想法的空间。不用写得很专业，也不必完成后才分享。
+这里是共同学习和分享 AI 的小空间。刚入门也可以参与，不需要长篇文章或成熟项目。
 
-## 文件放哪里？
+## 先确定内容放哪里
 
-- **Ade 的内容**：放到 [`AdenineLeo/`](AdenineLeo/README.md)。
-- **Ethan 的内容**：放到 [`Ethan/`](Ethan/README.md)。
-- **共同使用的说明和模板**：保存在仓库根目录的 `README.md`、`CONTRIBUTING.md`、`COMMUNITY.md` 与 `templates/`。
+| 内容 | 文件夹 |
+| --- | --- |
+| 基础知识、工具入门、通用教程、可共同维护的参考资料 | [`Shared/`](Shared/README.md) |
+| Ade 的项目、经历、心得与个人记录 | [`AdenineLeo/`](AdenineLeo/README.md) |
+| Ethan 的项目、经历、心得与个人记录 | [`Ethan/`](Ethan/README.md) |
+| 两个人都能使用的文章模板 | [`templates/`](templates/share-template.md) |
 
-你可以在自己的目录里随意组织 `projects/`、`notes/` 等子文件夹；不用现在就创建所有目录。
+如果一篇文章同时包含个人经历和通用方法，可以先放自己的目录，以后将共通部分整理进 `Shared/`。
 
-## 不会 Git，怎么放进来？
+## 不会 Git 怎么投稿？
 
-1. 登录 GitHub，打开自己的文件夹。
-2. 点击 **Add file → Create new file**，输入例如 `notes/我的第一次AI体验.md` 的文件名。
-3. 在编辑框输入 Markdown 内容。
-4. 通过页面提示 **Commit changes**。如果没有写权限，GitHub 会引导你建立 fork 并发起 Pull Request。
-5. 如果是替别人修改内容，推荐通过 Pull Request 留出审阅和讨论的空间。
+1. 登录 GitHub，打开目标文件夹。
+2. 点击 **Add file → Create new file**。例如 `Ethan/my-first-agent.md`。
+3. 用 Markdown 写内容；也可以复制项目或心得模板。
+4. 点击 **Commit changes**，按照 GitHub 提示保存。如果没有写入权限，可以通过 fork 提交 Pull Request。
+5. 涉及对方个人内容或者公共教程的重要修改，推荐走 Pull Request，便于相互审阅。
 
-详细界面可以参考 [GitHub 官方网页编辑说明](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files)。
+GitHub 官方教程：[在网页上编辑文件](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files)。
 
 ## 不知道写什么？
 
-项目介绍可以复制 [项目模板](templates/project-template.md)，简单感想可以用 [分享模板](templates/share-template.md)。模板不是强制的，只写三句话也可以。
+- [项目介绍模板](templates/project-template.md)
+- [使用心得模板](templates/share-template.md)
+- [经验和踩坑记录模板](AdenineLeo/templates/experience-note.md)
 
-## 交流与协作
+模板不是强制格式，哪怕只记录「我试了什么 → 实际结果 → 有什么问题」也可以。
 
-- **Discussions**：适合交流观点和提问；仓库所有者需要先在 Settings 中开启。
-- **Issues**：适合记录明确的问题、待办或建议。
-- **Pull Requests**：适合修改正式文件，并保留审阅记录。
+## 交流与权限
 
-**提醒**：如果对方需要直接编辑仓库，所有者需邀请为协作者；在此之前也可以通过 fork + PR 投稿。协作者权限是 GitHub 仓库级别的，不会因为文件夹不同自动隔离。
+- **Discussions**：适合随意讨论、提问；需要仓库所有者先开启。
+- **Issues**：适合整理明确的疑问、建议和待办。
+- **Pull Requests**：适合提交内容修改并留出讨论与审查过程。
 
-## 发出来之前
+GitHub 的协作者权限按整个仓库管理，**个人文件夹并不会自动限制另一个协作者的写入权限**。因此跨目录修改先沟通会更稳妥。
 
-检查有没有 API Key、Token、私人聊天、未公开项目内容和不适宜公开的截图。引用别人的文章或代码时注明来源；尚未验证的结论请清楚标明。
+上传之前检查：是否出现 API Key、Token、个人隐私、私人聊天、敏感日志或未经授权公开的项目内容。转载要标明来源。
 
 [返回首页](README.md)
