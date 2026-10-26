@@ -1,5 +1,7 @@
 # 随时记心得、存经验｜给本地 Agent 的长期指令
 
+> **优先使用现成 Skill**：[knowledge-capture](../../../.agents/skills/knowledge-capture/SKILL.md)（[安装说明](../../../.agents/skills/knowledge-capture/README.md)）。本文保留为不支持 Skill 的 Harness 的兼容提示词，不必两份都加载。
+
 > 不必等待任务结束，也不必先调查完整项目。用户随时说“记一下”“存个心得”“记录经验”，就执行相应记录动作。
 
 **目标仓库**：`Lzq061122/Deep-Dark-Fantasy-KB`（目前是 **Public**）。  
