@@ -1,80 +1,39 @@
-# 参与指南｜一起来交流、分享和记录
+# 怎么参与？｜AdenineLeo × Ethan
 
-欢迎来到 Deep Dark Fantasy KB。这里是一个小型 AI 交流空间，不要求你会写代码，也不要求文章很完整。哪怕只分享“我试过一个工具，结果很奇怪”，也可以成为有价值的内容。
+这里是两个人一起整理 AI 项目、经验与想法的空间。不用写得很专业，也不必完成后才分享。
 
-## 想参与？选择最轻松的方式
+## 文件放哪里？
 
-| 你想做什么 | 推荐渠道 | 是否需要修改仓库文件 |
-| --- | --- | --- |
-| 问问题、闲聊、分享一个发现 | **Discussions（讨论区）** | 不需要 |
-| 介绍自己在做的 AI 相关项目，征求建议 | 先发 Discussions；想长期展示再写项目页 | 选填 |
-| 记录一次使用经验、心得或踩坑 | Discussions 或 `notes/` | 选填 |
-| 提交一篇完整教程或修改现有文章 | Pull Request（PR） | 需要 |
-| 提议新增栏目、指出知识库问题 | Discussions；具体待办可用 Issues | 不需要 |
+- **Ade 的内容**：放到 [`AdenineLeo/`](AdenineLeo/README.md)。
+- **Ethan 的内容**：放到 [`Ethan/`](Ethan/README.md)。
+- **共同使用的说明和模板**：保存在仓库根目录的 `README.md`、`CONTRIBUTING.md`、`COMMUNITY.md` 与 `templates/`。
 
-> **注意**：GitHub Discussions 需要仓库管理员先在 `Settings → Features → Discussions` 中开启。开启后才能使用讨论区。普通朋友无需仓库写入权限即可参与公开讨论，发言仍需要 GitHub 账户。
+你可以在自己的目录里随意组织 `projects/`、`notes/` 等子文件夹；不用现在就创建所有目录。
 
-## 路线 A：完全不会 Git，也可以交流
+## 不会 Git，怎么放进来？
 
-1. 注册并登录 GitHub。
-2. 进入本仓库顶部的 **Discussions** 标签（管理员启用之后）。
-3. 找到适合的话题分类，点击 **New discussion**。
-4. 给它取个标题，直接写你的问题、经历、作品链接或者感想。
-5. 有人回复后，继续在讨论串里聊天即可。
+1. 登录 GitHub，打开自己的文件夹。
+2. 点击 **Add file → Create new file**，输入例如 `notes/我的第一次AI体验.md` 的文件名。
+3. 在编辑框输入 Markdown 内容。
+4. 通过页面提示 **Commit changes**。如果没有写权限，GitHub 会引导你建立 fork 并发起 Pull Request。
+5. 如果是替别人修改内容，推荐通过 Pull Request 留出审阅和讨论的空间。
 
-**可直接复制的开场白：**
+详细界面可以参考 [GitHub 官方网页编辑说明](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files)。
 
-```text
-最近我在尝试：
-我想实现：
-目前效果：
-我没搞懂 / 想让大家帮忙看看：
-```
+## 不知道写什么？
 
-不用写成长篇论文。没有结论的尝试也欢迎分享。
+项目介绍可以复制 [项目模板](templates/project-template.md)，简单感想可以用 [分享模板](templates/share-template.md)。模板不是强制的，只写三句话也可以。
 
-## 路线 B：我想把项目放在这里展示
+## 交流与协作
 
-项目不必完成，可以是一个想法、开发中的 Demo 或已经发布的作品。
+- **Discussions**：适合交流观点和提问；仓库所有者需要先在 Settings 中开启。
+- **Issues**：适合记录明确的问题、待办或建议。
+- **Pull Requests**：适合修改正式文件，并保留审阅记录。
 
-1. 看一眼 [项目展示区](projects/README.md)。
-2. 复制 [项目介绍模板](templates/project-template.md)。
-3. 在 `projects/` 下建立你的项目文件夹，例如 `projects/my-first-agent/README.md`。
-4. 写清项目做什么、进度、遇到的问题、你希望得到什么帮助。
-5. 用 Pull Request 提交。如果有仓库写入权限，也建议先通过分支提交，避免覆盖其他人的改动。
+**提醒**：如果对方需要直接编辑仓库，所有者需邀请为协作者；在此之前也可以通过 fork + PR 投稿。协作者权限是 GitHub 仓库级别的，不会因为文件夹不同自动隔离。
 
-**不会 Git 命令也没关系**：可在 GitHub 网页上编辑文件并提出修改，GitHub 会引导你创建 fork / Pull Request。完整说明：[GitHub 官方文档：网页编辑文件](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files)。
+## 发出来之前
 
-## 路线 C：我想留下心得，但还没写成文章
-
-- 可以先发到 Discussions 让别人回应。
-- 想正式归档时，复制 [随手分享模板](templates/share-template.md)。
-- 在 `notes/<你的GitHub用户名>/` 下新建 Markdown 文件，例如 `notes/example-user/2026-10-26-my-first-agent.md`（这里的用户名只是示例）。
-- 没想通的地方就标注 **待验证**。不要为了让文章看起来完整而编造结果。
-
-原有的 `06-field-notes/` 是早期个人笔记的历史存档，之后大家的新心得都欢迎存到 `notes/`。
-
-## 提交 PR：照着做就行
-
-1. 找到想添加或修改的文件，点击网页上的编辑图标；如果没有编辑权限，GitHub 会提示 fork。
-2. 完成修改，点击 **Commit changes**，然后按引导创建 **Pull Request**。
-3. 标题写清你增加了什么，比如「分享：第一次用 Agent 做课设的记录」。
-4. 等待交流、审阅与合并。如果有人提出建议，可以继续修改。
-
-建议：一篇文章 / 一个项目介绍对应一个 PR，便于交流。
-
-## 我们约定几条简单规则
-
-- 尊重不同经验水平。可以讨论观点和技术问题，避免针对个人的攻击。
-- 个人经历请写清 **亲自测试 / 根据资料整理 / 尚未验证**；遇到不确定的内容，坦率标明。
-- 尊重原作者：转载材料请注明来源，别直接复制受版权限制的长篇内容。
-- 发项目和日志前，先移除 API Key、Token、个人联系方式、私聊截图、敏感配置及不允许公开的仓库内容。
-- 这是一个开放交流区，没有必要“必须高质量”才能发言，也没有必须持续更新的压力。
-
-## 对维护者的建议
-
-先启用 Discussions，推荐分类：**随便聊聊**（General）、**项目展示**（Show and tell）、**求助与问答**（Q&A）、**经验与踩坑**（Ideas/General，可自建分类）。分类名称和类型以 GitHub 设置界面为准。
-
-对新朋友，先让他发第一条 Discussion；愿意长期写文章时，再邀请协作或学习 PR。
+检查有没有 API Key、Token、私人聊天、未公开项目内容和不适宜公开的截图。引用别人的文章或代码时注明来源；尚未验证的结论请清楚标明。
 
 [返回首页](README.md)
