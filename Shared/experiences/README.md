@@ -20,7 +20,7 @@
 
 有值得复用的判断时，可以直接告诉 Agent“存个经验：……”。它只需核对是否已有类似条目、保留适用边界、确认内容适合进入当前 Public 仓库，然后补充或新增；不需要专门启动一次项目审查。随手的个人想法先放在 [Ade 的笔记区](../../AdenineLeo/notes/README.md)，不必强行提炼成通用原则。
 
-需要时可使用 [本地 Agent 的长期记录指令](../../AdenineLeo/projects/Agent-Experience-Lab/LOCAL-AGENT-TASK.md)。
+推荐安装 [knowledge-capture Skill](../../.agents/skills/knowledge-capture/SKILL.md)，然后直接说“记一下……”或“存个经验……”。不支持 Skill 的 Agent 可以使用 [长提示词兼容版](../../AdenineLeo/projects/Agent-Experience-Lab/LOCAL-AGENT-TASK.md)。
 
 ## 今后怎么增补？
 
