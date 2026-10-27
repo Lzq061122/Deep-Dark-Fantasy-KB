@@ -14,6 +14,7 @@
 | [E-04](E-04-hash-final-bytes.md) | 校验文件哈希必须对应最终字节 | 文件处理 / 测试 | Ade · CultureLens |
 | [E-05](E-05-observe-effective-state.md) | 动作成功不等于目标状态真正生效 | Agent / 配置 / 部署 | Ade · CultureLens |
 | [E-06](E-06-validate-critical-mechanism-first.md) | 先验证关键机制，再展开完整实现 | 技术研究 / Agent 协作 | 项目协作复盘（概括） |
+| [E-07](E-07-agent-terminology-and-status.md) | 区分 Agent 命名与正式状态 | Agent 协作 / 项目沟通 | 项目协作（概括） |
 
 首批五条（2026-10-26）依据 CultureLens **已公开**的工程文档和代码整理；不是独立重新执行全部测试。每条记录自己的证据状态。
 
